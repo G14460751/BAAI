@@ -5,7 +5,7 @@
 #
 
 # 1. Input
-X = 8
+X = 6
 Y = 7
 
 # 2. Process
